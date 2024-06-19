@@ -1,2 +1,2 @@
-# CP_Protfolio
+# CP_Portfolio
 A modern and responsive personal portfolio website
